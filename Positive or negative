@@ -1,0 +1,14 @@
+num=int(input('enter a value'))
+if num>0:
+    print('num is positive')
+else:
+    print('num is negative')
+
+Output:
+case1:
+enter a value4 
+num is positive 
+
+case2:
+enter number -36
+num is negative
